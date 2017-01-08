@@ -15,7 +15,7 @@ The solution obtained a rank of [147th out of 1785 teams] (https://www.kaggle.co
 with a private leaderboard score of 0.0303227.<br>
 
 ## Execution
-1. Close this repository <br>
+1. Clone this repository <br>
 2. [Download the data from Kaggle] (https://www.kaggle.com/c/santander-product-recommendation/data) and place in the working directory
 3. Run `pre-process.R`
 5. Run the bagged XGB model script, `XGB.R`<br>
